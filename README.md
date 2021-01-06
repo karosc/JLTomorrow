@@ -1,6 +1,7 @@
 # JLTomorrow
 
 ![Github Actions Status](https://github.com/karosc/JLTomorrow/workflows/Build/badge.svg)
+[![PyPI version](https://badge.fury.io/py/JLTomorrow.svg)](https://badge.fury.io/py/JLTomorrow.svg)
 
 Tomorrow Theme
 
