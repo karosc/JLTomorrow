@@ -3,7 +3,9 @@
 ![Github Actions Status](https://github.com/karosc/JLTomorrow/workflows/Build/badge.svg)
 [![PyPI version](https://badge.fury.io/py/JLTomorrow.svg)](https://badge.fury.io/py/JLTomorrow.svg)
 
-Tomorrow Theme
+Tomorrow Theme for JupyterLab 3.0
+
+[Based on the Base 16 theme color scheme](https://github.com/chriskempson/base16)
 
 
 
